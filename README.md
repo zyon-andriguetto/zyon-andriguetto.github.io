@@ -1,1 +1,3 @@
-<h1>Olá, sou Zyon Andriguetto e sou estudante de sistemas de informação. Tenho um conheçimento em linguagens basicas e adoro programar sites de vendas. Caso vc tenha interessado no meu trabalhor podemos conversar para um futuro trabalho. Me envie um E-mail para: zyonandriguetto@gmail.com</h1>
+<h1>Olá, meu nome é Zyon Andriguetto e sou estudante de Sistemas de Informação. Tenho conhecimento em linguagens de programação básicas e sou apaixonado pelo desenvolvimento de sites voltados para vendas online.</h1>
+<h2>Se você tiver interesse em conhecer mais sobre o meu trabalho ou discutir possíveis oportunidades, ficarei feliz em conversar.</h2>
+<h3>Entre em contato pelo e-mail: zyonandriguetto@gmail.com.</h3>
